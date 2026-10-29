@@ -139,7 +139,7 @@ config:
 EOF
 ```
 
-## If required we also use for testing otel LB
+## If LB required
 
 ```
 cat > otel-lb.yaml <<'EOF'
